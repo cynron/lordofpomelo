@@ -3,12 +3,12 @@
   "version": "0.3.0",
   "private": false,
   "dependencies": {
-    "express": "2.5.2"
-    , "everyauth": "0.3.0"
-    , "connect": ">=0.0.1"
-    , "ejs": "0.8.3"
-    , "generic-pool": ">=1.0.9"
-    , "mysql": ">=2.0"
+    "express": "2.5.2",
+    "everyauth": "0.3.0",
+    "connect": "2.7.3",
+    "ejs": "0.8.3",
+    "generic-pool": "2.0.3",
+    "mysql": "2.0.0"
   }
 }
 
